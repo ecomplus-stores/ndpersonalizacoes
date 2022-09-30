@@ -1,13 +1,13 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "text": "Aqui a N&D Personaliza para você !",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "title": "Somos uma empresa familiar, trabalhamos com personalização a 15 anos. Fazemos tudo com muito amor.",
+        "link": ""
       },
       {
         "title": "Esta loja é um PWA",
