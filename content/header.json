@@ -10,8 +10,8 @@
         "link": ""
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "N&D Loja de Departamento",
+        "link": "/posts/ndlojadedepartamento"
       }
     ],
     "phone_wpp": true,
@@ -19,7 +19,7 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 6,
+    "random": 0,
     "full_width": false
   },
   "desktop_megamenu": false,
